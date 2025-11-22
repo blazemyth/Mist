@@ -1,4 +1,4 @@
-# SteganographierGUI
+# Mist
 将文件隐写进MP4/MKV文件中
 
 请确保在理解“**后缀名**”这个词含义的前提下观看以下教程，如不理解，请首先搜索“[**如何改后缀名**](https://cn.bing.com/search?q=%E5%A6%82%E4%BD%95%E6%94%B9%E6%96%87%E4%BB%B6%E5%90%8E%E7%BC%80%E5%90%8D)”
